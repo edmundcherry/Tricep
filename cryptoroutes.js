@@ -7,6 +7,8 @@ const publicClient = new GDAX.PublicClient();
 
 console.log("deez nuts oh tay");
 
+console.log("htmlFuckkk");
+
 /*const callback = (error, response, data) => {
   if (error)
  	return console.dir(error);
