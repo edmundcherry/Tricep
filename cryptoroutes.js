@@ -5,6 +5,8 @@ const router = express.Router();
 const GDAX = require("gdax");
 const publicClient = new GDAX.PublicClient();
 
+console.log("deez nuts oh tay");
+
 /*const callback = (error, response, data) => {
   if (error)
  	return console.dir(error);
